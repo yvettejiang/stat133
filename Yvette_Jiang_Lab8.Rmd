@@ -1,0 +1,13 @@
+---
+title: "Yvette_Jiang_Lab8"
+author: "Yvette Jiang"
+date: "April 7, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+hello world
+...and s/o to Steven who solved my RStudio problem! <3
